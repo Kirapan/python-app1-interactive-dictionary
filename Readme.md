@@ -1,0 +1,1 @@
+A interactive dictionary for word searching and match using command line.
